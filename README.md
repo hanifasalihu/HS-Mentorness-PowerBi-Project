@@ -1,5 +1,8 @@
 # HS-Mentorness-PowerBi-Project
 This is a Microsoft PowerBI project which analyzed animated movies produced at certain period.
+![image](https://github.com/hanifasalihu/HS-Mentorness-PowerBi-Project/assets/157046638/9a65d3d2-6374-4e3c-b5c0-0d56022c5be5)
+
+
 
 ## Table of Content
 
@@ -31,28 +34,50 @@ Sales Data: The primary dataset used for this analysis contained detailed inform
 
 ## Process Workflow / Preparation
 
-    Collect & Prepare Dataset
-    Cleaning & Transformation of Data
-    Analysis & Visualization
-    Recommendation & Conclusion
+          ⇒  Data Collection
+         
+          ⇒  Data Modelling
+         
+          ⇒  Analysis & Transformation
+         
+          ⇒  Recommendation & Conclusion
+
+
+
 
 ## Data Cleaning Process
 
-    Open and Duplicate Dataset & Freeze Top Panes & Adjust Columns.
-    Format date to m/d/y Then Sort from Oldest to Newest.
-    Use IFS Function to confirm the Age & Age Group. Then Copy & Paste in New Column.
-    Apply Conditional Formatting to Revenue & Profit using AVG. and Data Validation to Order Quantity using MAX.
-    Add Table to Excel document, Create New Worksheet for Pivot Tables and Dashboard.
-    Create charts with pivot tables, Then copy & paste in Dashboard for Visualization & Calculate Statistical Totals.
+        1. Open & Duplicate Dataset in Microsoft Excel
+        2. Freeze Top Rows & Adjust Columns
+        3. Use Excel Function to filter for blanks
+        4. Use Production countries & language to fill in blank(Spoken Languages)
+        5. Import & Transform to Power BI query
+        6. Apply to power pivot for visualization
+
+
+
+
 
 ## Exploratory Data Analysis
 
 This involved exploring the sales data to answer some key questions, such as:
 
-    What is the highest and lowest revenue?
-    What bikes were sold more and in which region?
-    What year,quarters had the most and least sales?
-    Which age group bought more bikes?
+   ▪ Which movie has the highest and lowest popularity and rating?
+   
+   ▪ What countires and languages was filmed at & spoken more ?
+   
+   ▪ What is the correlation between production budget and revenue?
+   
+   ▪ Which movies was most watched?
+   
+   ▪ What was the most and least genres?
+   
+   ▪ What was the age suitability?
+   
+   ▪ What years has Correlation between populatiry score and vote count?
+   
+
+
 
 ## Result
 
@@ -71,6 +96,8 @@ This involved exploring the sales data to answer some key questions, such as:
 ▪ Alternative distribution methods such as streaming platforms should be considered to adapt to evolving audience preferences and consumption patterns.
 
 
+
+
 ## Limitations
 
 ▪ It did not include information about audience demographics, marketing strategies which can influence a movie's performance.
@@ -78,6 +105,7 @@ This involved exploring the sales data to answer some key questions, such as:
 ▪ It lacked enough details about budgets.
 
 ▪ There is no recent date of production, which isn’t enough to give fair evaluation knowing animated movies is an ever-evolving genre
+
 
 
 
