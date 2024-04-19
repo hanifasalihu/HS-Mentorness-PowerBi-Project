@@ -1,4 +1,5 @@
 # HS-Mentorness-PowerBi-Project
+
 This is a Microsoft PowerBI project which analyzed animated movies produced at certain period.
 
 ![image](https://github.com/hanifasalihu/HS-Mentorness-PowerBi-Project/assets/157046638/9a65d3d2-6374-4e3c-b5c0-0d56022c5be5)
@@ -27,7 +28,8 @@ This project is an analysis of animated movies, delving into the intricate detai
 ## Data Sources
 
 Sales Data: The primary dataset used for this analysis contained detailed information about animated movies produced by different studios in several languages.
-[Download Here]
+
+[Download Here]https://github.com/hanifasalihu/HS-Mentorness-PowerBi-Project/blob/main/Animation_Movies_Dataset.csv
 
 
 
@@ -97,9 +99,13 @@ This involved exploring the sales data to answer some key questions, such as:
 
 ## Result
 
-*Check Insights and analysis and Data Visualization slide on presentation Viz
+*Check Insights and analysis on presentation file
 ![image](https://github.com/hanifasalihu/HS-Mentorness-PowerBi-Project/assets/157046638/7f36153c-aed5-4d8f-aa4d-fbec58bdb736)
 
+
+
+*Check Dashboard file for Vizualization:
+[Download Here]https://github.com/hanifasalihu/HS-Mentorness-PowerBi-Project/blob/main/Animated_Movies-Dashboard
 
 
 ## Recommendations
