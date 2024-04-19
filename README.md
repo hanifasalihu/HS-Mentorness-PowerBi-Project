@@ -1,5 +1,6 @@
 # HS-Mentorness-PowerBi-Project
 This is a Microsoft PowerBI project which analyzed animated movies produced at certain period.
+
 ![image](https://github.com/hanifasalihu/HS-Mentorness-PowerBi-Project/assets/157046638/9a65d3d2-6374-4e3c-b5c0-0d56022c5be5)
 
 
@@ -8,6 +9,7 @@ This is a Microsoft PowerBI project which analyzed animated movies produced at c
 
 - [ Project Overview](#project-overview)
 - [ Data Sources](#data-sources)
+- [Dataset Details](#dataset-details)
 - [Tools](#tools)
 - [Process Workflow / Preparation](Process-Workflow/-Preparation)
 - [Data Cleaning Process](#data-cleaning-process)
@@ -27,10 +29,24 @@ This project is an analysis of animated movies, delving into the intricate detai
 Sales Data: The primary dataset used for this analysis contained detailed information about animated movies produced by different studios in several languages.
 [Download Here]
 
+
+
+
+## Dataset Details
+
+
+These are the column headers that make up the worksheet provided by Mentorness.
+
+![image](https://github.com/hanifasalihu/HS-Mentorness-PowerBi-Project/assets/157046638/7d52d853-3d51-4fe2-a4c7-2b1296ba8247)
+
+
 ## Tools
 
     Microsoft PowerBI - Data Cleaning, Analysis and Visualization
     Microsoft Power point - Presentation
+
+
+
 
 ## Process Workflow / Preparation
 
