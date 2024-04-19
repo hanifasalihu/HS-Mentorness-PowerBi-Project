@@ -1,4 +1,4 @@
-# HS-Mentorness-PowerBi-Project
+# HS-Mentorness-PowerBI-Project
 
 This is a Microsoft PowerBI project which analyzed animated movies produced at certain period.
 
